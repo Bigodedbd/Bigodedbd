@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bigodedbd
-- 👀 eu tenho em interesse em vôlei
+- 👋 oi, eu sou João moedas
+- 👀 eu tenho  interesse em vôlei
 - 🌱 eu geralmente vou a praia 
 - 💞️ Eu Amo a minha namorada 🙅🏻🤍
 - 📫 "nada como um dia após o outro dia"
-- ⚡ gosto de surfar
+- ⚡ curto surfar
 
 <!---
 Bigodedbd/Bigodedbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
